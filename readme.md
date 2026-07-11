@@ -35,8 +35,7 @@ This project demonstrates:
 * HTTP enabled
 * Connected using SSH
 
-### Screenshots
-Available in: `screenshots/`
+
 
 ## Task 2 - Linux Basics
 ### Commands Used
