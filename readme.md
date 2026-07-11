@@ -81,8 +81,6 @@ aws-ec2-nginx-website/
 ├── index.html
 ├── scripts/
 │   └── restart_nginx.sh
-├── commands/
-│   └── linux-commands.md
 └── docs/
     └── AWS_EC2_Nginx_Assignment_Report.pdf
 ```
